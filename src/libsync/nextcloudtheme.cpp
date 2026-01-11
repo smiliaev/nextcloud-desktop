@@ -27,7 +27,7 @@ NextcloudTheme::NextcloudTheme()
 
 QString NextcloudTheme::wizardUrlHint() const
 {
-    return QStringLiteral("https://try.nextcloud.com");
+    return QStringLiteral("https://try.bimdisk.ru");
 }
 
 }
